@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rene0728
 - 👀 I’m interested in image and audio processing
-- 🌱 I’m currently learning OpenCV, OpenCL, CUDA ans CSound.
+- 🌱 I’m currently learning OpenCV, OpenCL, CUDA and CSound.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
